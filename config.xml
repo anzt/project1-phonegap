@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.anzt.project1"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Project1</name>
+
+  <description>
+      
+  </description>
+
+  <author href="https://anas.nemuide.com" email="anzt.07@gmail.com">
+      M. Reza Maulana
+  </author>
+
+</widget>
